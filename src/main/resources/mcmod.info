@@ -1,0 +1,16 @@
+[
+{
+  "modid": "seansmod",
+  "name": "Sean's Mod",
+  "description": "Sean's Changes to items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["eyeyeye"],
+  "credits": "Special thanks to my dad who helped me make this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
