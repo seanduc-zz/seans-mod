@@ -11,7 +11,7 @@ public class ArrowNock {
     public static void arrowNocked(ArrowNockEvent event) {
         EntityPlayer player = event.getEntityPlayer();
         player.swingArm(EnumHand.OFF_HAND);
-        player.move(MoverType.SELF, 0, 5.0, 0);
+        player.move(MoverType.SELF, 0, 10.0, 0);
     	System.out.println("Arrow nocked!");
     }
 }
